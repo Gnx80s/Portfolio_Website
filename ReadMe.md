@@ -22,5 +22,15 @@ This project is deployed using **Vercel** and connected to **GitHub** for automa
 Visit the live site:  
 [Add your Vercel link here]
 
+<pre>
+Portfolio/
+|
+├── index.html             # Main Code( HTML,CSS& JAVASCRIPT )
+|
+├── profilepicture.jpg     # Picture 
+|
+└── README.md               # This file
+ </pre>
+
 ## Author
 **Eugene Dela Gogah**
