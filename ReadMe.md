@@ -19,17 +19,22 @@ This is my personal portfolio website built using **HTML, CSS, and JavaScript**.
 This project is deployed using **Vercel** and connected to **GitHub** for automatic deployments.
 
 ## Live Website
-Visit the live site:  
-[Add your Vercel link here]
+Visit the live site:  https://portfoliowebsite-gogah-eugene.vercel.app/
 
 <pre>
+
 Portfolio/
 |
-├── index.html             # Main Code( HTML,CSS& JAVASCRIPT )
+├── index.html             # Structure (HTML)
 |
 ├── profilepicture.jpg     # Picture 
 |
-└── README.md               # This file
+├──  RedDMe.md             # This file
+|
+├── style.css              # Style Sheet (CSS)
+|
+└──script.js               # Script (JAVASCRIPT)
+
  </pre>
 
 ## Author
